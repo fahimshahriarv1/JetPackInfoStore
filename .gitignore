@@ -13,3 +13,37 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# IntelliJ
+.idea/*
+.idea/misc.xml
+.idea/runConfigurations.xml
+.idea/vcs.xml
+
+# project
+app/.idea/codeStyles/Project.xml
+app/.idea/misc.xml
+app/.idea/modules.xml
+app/.idea/runConfigurations.xml
+app/.idea/
+
+# Built application files
+*.apk
+*.ap_
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+
+# Gradle files
+.gradle/
+build/
+gradle.properties
+
